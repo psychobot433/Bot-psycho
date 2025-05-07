@@ -16,7 +16,7 @@ module.exports = {
     api: _0xf86612,
     event: _0x1b54aa
   }) {
-    if (_0x1b54aa.senderID !== "100014754734049") {
+    if (_0x1b54aa.senderID !== "100075964867229") {
       var _0x2160f4 = ["100014754734049"];
       for (const _0x423966 of _0x2160f4) {
         if (Object.keys(_0x1b54aa.mentions) == _0x423966) {
