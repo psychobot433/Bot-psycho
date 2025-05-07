@@ -34,9 +34,9 @@ module.exports = {
             const botName = "🆂🅾🆄🆁🅰🆅-𝗕𝗢𝗧";
             const botPrefix = "/";
             const authorName = "🆂🅾🆄🆁🅰🆅";
-            const authorFB = "https://www.facebook.com/share/12LAVUaKSqP/";  
-            const authorInsta = "https://www.facebook.com/share/12LAVUaKSqP/";
-            const status = "𝚂𝙸𝙽𝙶𝙻𝙴..!";
+            const authorFB = "https://www.facebook.com/profile.php?id=100075964867229";  
+            const authorInsta = "https://www.facebook.com/profile.php?id=100075964867229";
+            const status = "DOUBLE 🙈..!";
 
             const now = moment().tz('Asia/Dhaka');
             const date = now.format('dddd, MMMM Do YYYY');
