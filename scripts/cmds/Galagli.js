@@ -44,9 +44,9 @@ react.includes("খানকি মাকি") ||
 react.includes("খানকি মাগি") || 
 react.includes("SawYa") || 
 react.includes("Sawya") || 
-react.includes("tor mare xudi") || react.includes("vuda") || react.includes("heda") || react.includes("বাল")) {
+react.includes("tor mare xudi") || react.includes("vuda") || react.includes("heda") || react.includes("bap")) {
 		var msg = {
-				body: "╰┈➤ এখানে গালা গালি করবি না S　O　U　R　A　 V　ツ ভাই কে ডাক দিমু কিন্তু!!😾😾"
+				body: "╰┈➤ এখানে গালাগালি করলে মুখ সেলাই কইরা দিমু..!!😾"
 			}
 			api.sendMessage(msg, threadID, messageID);
     api.setMessageReaction("😠", event.messageID, (err) => {}, true)
